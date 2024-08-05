@@ -1,4 +1,4 @@
-# :boom: Flag-Temperature-Assembler :boom: 
+# :yemen: Flag-Temperature-Assembler :thermometer: 
 Uso de la librería JUNG para la gestión de grafos.
 
 Este repositorio contiene el proyecto final para la materia Arquitectura de Computadores, inicialmente aparecen los nombres junto con una bandera pintada en pixeles, despues se carga el programa para conversión de temperatura de grados celsius a Fahrenheit 
