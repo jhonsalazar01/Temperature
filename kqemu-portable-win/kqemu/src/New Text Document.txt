@@ -1,0 +1,16 @@
+  ;; Start kqemu after install
+  ;; Service control manager plugin is used. Inf file isn't used.
+  nsSCM::Install /NOUNLOAD "kqemu" "kqemu driver" 1 2 "$SYSDIR\drivers\kqemu.sys" "" "" "" ""
+  Pop $0
+  DetailPrint "snSCM::Install : $0"
+  nsSCM::Start /NOUNLOAD "kqemu"
+  Pop $0
+  DetailPrint "nsSCM::Start : $0"
+
+  ;; Stop kqemu
+  nsSCM::Stop /NOUNLOAD "kqemu"
+  Pop $0
+  DetailPrint "nsSCM::Stop : $0"
+  nsSCM::Remove /NOUNLOAD "kqemu"
+  Pop $0
+  DetailPrint "nsSCM::Remove : $0"
