@@ -26,9 +26,9 @@ Este repositorio contiene el proyecto final para la materia Arquitectura de Comp
 ### :telephone: Contacto :telephone:
 UNIVERSIDAD PEDAGÓGICA Y TECNOLÓGICA DE COLOMBIA.
 INGENIERÍA DE SISTEMAS Y COMPUTACIÓN.
-PROGRAMACIÓN III.
+ARQUITECTURA DE COMPUTADORES.
 SOGAMOSO, COLOMBIA.
-2023
+2024
 
 - Jaime Pinzon Jhon Fredy
 - Salazar Romero Jhon Fredy https://github.com/jhonsalazar01
