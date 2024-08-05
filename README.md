@@ -30,6 +30,6 @@ PROGRAMACIÓN III.
 SOGAMOSO, COLOMBIA.
 2023
 
-- Jaime Pinzaon Jhon Fredy
+- Jaime Pinzon Jhon Fredy
 - Salazar Romero Jhon Fredy https://github.com/jhonsalazar01
 
